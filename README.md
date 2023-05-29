@@ -1,5 +1,5 @@
 # revisao-css
-## Exercios de Revisao CSS Fundamentos
+## Exercicios de Revisao CSS Fundamentos
 
 ### Hierarquia e especificidade CSS
 <!-- inserindo imagem com linguagem MD -->
